@@ -6,6 +6,7 @@
 ### Dica 1: Ouça podcasts ou broadcasts.
 
 - O [Plain English](https://plainenglish.com/) tem aúdios em inglês com o script disponível no site e no aplicativo castbox também tem os podcasts disponíveis no canal Plain English;
+- O app [English Listening TFlat](https://play.google.com/store/apps/details?id=com.tflat.spotlight&hl=en_US) tem muitos podcasts em inglês ideal para estudantes já que tem muito conteúdo e de diversos temas;
 
 ### Dica 2: escolha filmes de animação ou até mesmo uma série que você já conheça a história e assista com aúdio e legenda em inglês.
 - Rei Leão;
@@ -18,7 +19,7 @@ O site [Ejoy English](https://ejoy-english.com/go/category/tv-show/100001) dispo
 
 ### Dica 3: estude a letra de uma música que goste.
 
-O app Lyrics Training (Play Store) tem vários tipos de música para praticar o seu listening preenchendo as palavras faltantes dentro das lacunas da música.
+O app [Lyrics Training](https://lyricstraining.com/app) tem vários tipos de música para praticar o seu listening preenchendo as palavras faltantes dentro das lacunas da música.
 
 ### Dica 4: estude com um outro colega que tem o mesmo objetivo de aprender inglês.
 
