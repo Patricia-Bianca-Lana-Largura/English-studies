@@ -1,5 +1,5 @@
 ## Estudos de Inglês
-
+<img src="https://github.com/Patricia-Bianca-Lana-Largura/English-studies/blob/master/Images/img1.png" width="950">
 
 ### Além de estudos teóricos com gramáticas é importante ouvir e assistir filmes e demais conteúdos em inglês. Abaixo vou colocar uma dica e o nome dos conteúdos e materiais que possam vir a te ajudar.
 
