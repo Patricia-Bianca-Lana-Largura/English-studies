@@ -48,6 +48,7 @@ O app [Lyrics Training](https://lyricstraining.com/app) tem vários tipos de mú
 ### :notebook_with_decorative_cover: Dica 10: anote suas dúvidas de vocabulário em um caderno e revise essas novas palavras formando uma frase de exemplo que torne mais fácil de lembrar.
 - Mantenha em uma agenda ou em um post-it e mantenha até conseguir lembrar do novo vocabulário sem precisar consultar.
 
+### Content:
 
 Number | Title | About |
 | ------------ | ------------ | ------------ |
