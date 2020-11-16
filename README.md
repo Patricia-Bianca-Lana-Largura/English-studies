@@ -48,8 +48,12 @@ O app [Lyrics Training](https://lyricstraining.com/app) tem vários tipos de mú
 ### :notebook_with_decorative_cover: Dica 10: anote suas dúvidas de vocabulário em um caderno e revise essas novas palavras formando uma frase de exemplo que torne mais fácil de lembrar.
 - Mantenha em uma agenda ou em um post-it e mantenha até conseguir lembrar do novo vocabulário sem precisar consultar.
 
+### Content:
 
 Number | Title | About |
 | ------------ | ------------ | ------------ |
 | 1 | [Prepositions of places](https://github.com/Patricia-Bianca-Lana-Largura/English-studies/tree/master/Content) | Using prepositions ON, NEXT TO, BETWEEN, ACROSS FROM, ON THE CORNER OF and BEHIND|
+| 2 | [To be]() | Using verb to be|
+| 3 | [Simple Past]() | Using Simple Past to describe past events|
+| 4 | [Forniture Vocabulary]() | List of forniture you have at home|
 
