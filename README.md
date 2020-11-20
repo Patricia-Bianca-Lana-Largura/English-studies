@@ -53,7 +53,7 @@ O app [Lyrics Training](https://lyricstraining.com/app) tem vários tipos de mú
 Number | Title | About |
 | ------------ | ------------ | ------------ |
 | 1 | [Prepositions of places](https://github.com/Patricia-Bianca-Lana-Largura/English-studies/tree/master/Content) | Using prepositions ON, NEXT TO, BETWEEN, ACROSS FROM, ON THE CORNER OF and BEHIND|
-| 2 | [To be]() | Using verb to be|
-| 3 | [Simple Past]() | Using Simple Past to describe past events|
-| 4 | [Forniture Vocabulary]() | List of forniture you have at home|
+| 2 | [To be](https://github.com/Patricia-Bianca-Lana-Largura/English-studies/tree/master/Content/2.%20To%20be) | Using verb to be|
+| 3 | [Simple Past](https://github.com/Patricia-Bianca-Lana-Largura/English-studies/tree/master/Content/3.%20Simple%20Past) | Using Simple Past to describe past events|
+| 4 | [Forniture Vocabulary](https://github.com/Patricia-Bianca-Lana-Largura/English-studies/tree/master/Content/4.%20Fornitures) | List of forniture you have at home|
 
