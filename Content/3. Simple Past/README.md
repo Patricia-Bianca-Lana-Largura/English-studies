@@ -1,5 +1,5 @@
 ## Simple Past:
-<img src="https://github.com/Patricia-Bianca-Lana-Largura/English-studies/blob/master/Images/img1.png" width="950">
+<img src="https://github.com/Patricia-Bianca-Lana-Largura/English-studies/blob/master/Images/3.%20Simple%20Past/img1.png" width="950">
 
 O Simple Past é usado para ações passadas já concluídas, ou seja, para
 falar de fatos que já aconteceram que começaram e **terminaram** no passado.
