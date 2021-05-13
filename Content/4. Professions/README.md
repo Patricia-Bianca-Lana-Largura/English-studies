@@ -1,5 +1,5 @@
 ## Professions
-<img src="https://github.com/Patricia-Bianca-Lana-Largura/English-studies/blob/master/Images/img1.png" width="950">
+<img src="https://github.com/Patricia-Bianca-Lana-Largura/English-studies/blob/master/Content/4.%20Professions/professions.jpg" width="950">
 
 - Banker
 - Veterinarian
