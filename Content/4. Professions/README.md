@@ -1,5 +1,64 @@
-## Estudos de Inglês
+## Professions
 <img src="https://github.com/Patricia-Bianca-Lana-Largura/English-studies/blob/master/Images/img1.png" width="950">
 
+- Banker
+- Veterinarian
+- Police
+- Fire man
+- Teacher
+- Nurse
+- Taxi Driver
+- Administrator
+- Lawyer
+- Engineer
+- Actor
+- Singer
+- Cook
+- Operator
+- Hairdresser
+- Receptionist
+- Tax fiscal
+- Trainee
+- Usher
+- Tutor
+- Team Assistant
+- Architect
+- Artist
+- Analyst
+- Butcher
+- Brick Layer
+- Business womam
+- Babysitter
+- Chef
+- Cashier
+- Doctor
+- Dancer
+- Photographer
+- Reporter
+- Shoemaker
+- Taxi driver
+- Waiter
+- Caregiver
+- Server
+- Driver
+- Dentist
+- Eletrician
+- Farmer
+- Guard
+- Garden
+- General
+- Historian
+- Janitor
+- Judge
+- Ilustrator
+- Mechanic
+- Miner
+- Manager
+- Painter
+- Pilot
+- Stylist
+- Accountant
+- Fitness instructor
+- Dog walker
 
 
